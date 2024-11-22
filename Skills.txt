@@ -1,3 +1,4 @@
+3 SKILLS TO LEARN:
 1. Advanced Python Programming
 2. Machine Learning
 3. Full-Stack Web Development
